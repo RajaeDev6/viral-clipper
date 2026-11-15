@@ -1,0 +1,13 @@
+{
+  "_about": "Clean white sentence-case captions, no colour highlight, lower third.",
+  "font": "Poppins ExtraBold",
+  "font_size": 84,
+  "uppercase": false,
+  "highlight_colors": [],
+  "outline": 6,
+  "shadow": 3,
+  "max_words": 4,
+  "max_chars": 24,
+  "position_y": 0.75,
+  "pop_animation": false
+}

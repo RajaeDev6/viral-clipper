@@ -1,0 +1,5 @@
+{
+  "_about": "Clean vertical crop, no burned-in captions (good for action/visual clips).",
+  "captions": false,
+  "crop": "face"
+}

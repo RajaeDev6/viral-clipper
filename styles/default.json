@@ -1,0 +1,18 @@
+{
+  "_about": "Bold word-by-word karaoke captions (MrBeast-clips style). Current word cycles green/yellow/red.",
+  "captions": true,
+  "font": "Anton",
+  "font_size": 132,
+  "uppercase": true,
+  "text_color": "#FFFFFF",
+  "highlight_colors": ["#39FF33", "#FFE600", "#FF4040"],
+  "outline_color": "#000000",
+  "outline": 9,
+  "shadow": 5,
+  "position_y": 0.68,
+  "max_words": 3,
+  "max_chars": 16,
+  "pop_animation": true,
+  "strip_punctuation": true,
+  "crop": "face"
+}

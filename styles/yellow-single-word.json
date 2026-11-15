@@ -1,0 +1,9 @@
+{
+  "_about": "One huge word at a time, yellow highlight, Hormozi/podcast style.",
+  "font": "Luckiest Guy",
+  "font_size": 150,
+  "highlight_colors": ["#FFE600"],
+  "max_words": 1,
+  "max_chars": 14,
+  "position_y": 0.62
+}
